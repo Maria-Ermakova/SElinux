@@ -160,3 +160,6 @@ curl http://192.168.56.20:4880   получаем страницу nginx
 curl http://localhost:4880   получаем страницу nginx
 
 из браузера хостовой ОС получаем страницу nginx
+
+![SELinux_nginx4880](https://github.com/user-attachments/assets/2b6ace34-732b-4e23-9a2b-fd834bcb2558)
+
